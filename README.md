@@ -1,2 +1,2 @@
 # testproject
-This is for Anguler testing
+This is for Angular testing
